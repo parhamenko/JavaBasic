@@ -3,7 +3,7 @@
  *
  * @author Parhamenko Andrii
  * @todo 5.09.2022
- * @date 7.09.2022
+ * @date 11.09.2022
  */
 class HomeWork1 {
     public static void main(String[] args) {
