@@ -11,7 +11,7 @@ class HomeWork2 {
         checkWeather(29);
          //task2
         boolean isWeekend = true;
-        boolean isRain = true;
+        boolean isRain = false;
         boolean walk = canWalk(isWeekend, isRain);
         System.out.printf ("Can I walk : %b%n", walk);
         //task 3
